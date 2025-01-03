@@ -2,7 +2,9 @@
 
 I'm a full-stack web developer, currently learning C++ and Rust.
 
-My personal projects:
+---
+
+### My personal projects:
 
 | C/C++ | Rust, Python, Web |
 |-----|-------|
@@ -12,6 +14,8 @@ My personal projects:
 | [tic-tac-toe](https://github.com/DavidJCottrell/tic-tac-toe) - Description | |
 | [ZeroMQ Push-Pull Example](https://github.com/DavidJCottrell/ZeroMQ-push-pull-example) - Description | |
 
-<br>
+### My top languages:
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=davidjcottrell&show_icons=true&theme=dracula&hide=stars,issues)
+<img style="float: left;" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidjcottrell&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top languages" width="400px"/>
+
+
