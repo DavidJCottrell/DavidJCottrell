@@ -1,4 +1,4 @@
-> 👨🏻‍💻 Full-Stack Developer, Learning C++ and Rust.
+> 👨🏻‍💻 Full-Stack Web Developer, Currently Learning C++ and Rust.
 
 #### My personal projects:
 
