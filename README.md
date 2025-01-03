@@ -11,4 +11,4 @@
 
 #### My top languages:
 
-<img style="float: left;" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidjcottrell&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top languages" width="400px"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidjcottrell&exclude_repo=stroke-prediction-model,digit-predictor&theme=tokyonight&layout=compact)
