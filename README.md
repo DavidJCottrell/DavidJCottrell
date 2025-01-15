@@ -17,6 +17,6 @@ Key Features:
 - 📊 Comprehensive logging system
 - ⚡ Event-driven architecture
 
-#### My top languages:
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidjcottrell&exclude_repo=stroke-prediction-model,digit-predictor&theme=tokyonight&layout=compact)
