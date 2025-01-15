@@ -17,19 +17,6 @@ Key Features:
 - 📊 Comprehensive logging system
 - ⚡ Event-driven architecture
 
-### ACM
-
-Secondary project for ArnoldEngine - an Application Configuration Manager written in C++.
-
-Link to repository - [here](https://github.com/DavidJCottrell/ccm)
-
-Key Features:
-
-- 🔧 CMake-based build system
-- ⚙️ Multi-Format Support
-- ⚡ Real-time configuration file monitoring and events
-- ✔️ Value validation and type checking
-
 #### My top languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidjcottrell&exclude_repo=stroke-prediction-model,digit-predictor&theme=tokyonight&layout=compact)
