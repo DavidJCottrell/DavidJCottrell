@@ -1,14 +1,34 @@
-> 👨🏻‍💻 Full-Stack Web Developer, Currently Learning C++ and Rust.
+> 👨🏻‍💻 Control Systems Engineer at UKAEA
 
-#### My personal projects:
+Currently working professionally with Unreal Engine 5, React and .NET. I spend my spare time experimenting with different technologies and languages, but have recently gotten hooked on Game Engine design.
 
-| C/C++ | Rust, Python, Web |
-|-----|-------|
-| [Arnold Engine](https://github.com/DavidJCottrell/ArnoldEngine) - A cross-platform game engine | [Temperature Converter](https://github.com/DavidJCottrell/temperature-converter) - Uses the slint Rust GUI framework | 
-| [CCM](https://github.com/DavidJCottrell/ccm) - C++ Configuration Manager | [Rust Cocoa Window](https://github.com/DavidJCottrell/rust-cocoa-window) - Calls the native MacOS Cocoa API to create a window using Rust |
-| [Pong](https://github.com/DavidJCottrell/pong) - Uses the conan package manager  | |
-| [tic-tac-toe](https://github.com/DavidJCottrell/tic-tac-toe) - Uses the conan package manager | |
-| [GOL](https://github.com/DavidJCottrell/GOL) - Conway's Game of Life | |
+### Arnold Engine
+
+My main personal project - a cross-platform game engine built with modern C++.
+
+Link to repository - [here](https://github.com/DavidJCottrell/ArnoldEngine)
+
+Key Features:
+
+- 🔧 CMake-based build system
+- 🎨 Modern OpenGL rendering pipeline
+- 🖥️ Cross-platform window & input handling
+- 🛠️ Integrated debugging tools with Dear ImGui
+- 📊 Comprehensive logging system
+- ⚡ Event-driven architecture
+
+### ACM
+
+Secondary project for ArnoldEngine - an Application Configuration Manager written in C++.
+
+Link to repository - [here](https://github.com/DavidJCottrell/ccm)
+
+Key Features:
+
+- 🔧 CMake-based build system
+- ⚙️ Multi-Format Support
+- ⚡ Real-time configuration file monitoring and events
+- ✔️ Value validation and type checking
 
 #### My top languages:
 
